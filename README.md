@@ -1,7 +1,7 @@
-# Happiness
+# WeHappiness
 
 We build apps with "happiness" which based on webpack and makefile
-[Happiness](https://github.com/weflex) are helping [WeFlex](https://github.com/weflex) to build
+[WeHappiness](https://github.com/weflex/wehappiness) are helping [WeFlex](https://github.com/weflex) to build
 stuffs which are:
 
 - React-based web application
