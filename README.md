@@ -1,6 +1,10 @@
 # WeHappiness
 
-We build apps with "happiness" which based on webpack and makefile
+[![NPM version][npm-image]][npm-url]
+[![Build status][travis-image]][travis-url]
+[![Dependency Status][david-image]][david-url]
+[![Downloads][downloads-image]][downloads-url]
+
 [WeHappiness](https://github.com/weflex/wehappiness) are helping [WeFlex](https://github.com/weflex) to build
 stuffs which are:
 
@@ -10,8 +14,8 @@ stuffs which are:
 
 ## Requirements
 
-- node@latest
-- yo@latest
+- [node@latest](https://nodejs.org/en/)
+- [yo@latest](http://npmjs.com/yo)
 
 ## Install
 
@@ -69,3 +73,14 @@ makefile          --> provides some utilities
 ## License
 
 MIT @ WeFlex, Inc
+
+
+[npm-image]: https://img.shields.io/npm/v/generator-wehappiness.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/generator-wehappiness
+[travis-image]: https://img.shields.io/travis/weflex/wehappiness.svg?style=flat-square
+[travis-url]: https://travis-ci.org/weflex/wehappiness
+[david-image]: http://img.shields.io/david/weflex/wehappiness.svg?style=flat-square
+[david-url]: https://david-dm.org/weflex/wehappiness
+[downloads-image]: http://img.shields.io/npm/dm/generator-wehappiness.svg?style=flat-square
+[downloads-url]: https://npmjs.org/package/generator-wehappiness
+
