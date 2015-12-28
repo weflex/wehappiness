@@ -1,6 +1,6 @@
 {
   "name": "generator-wehappiness",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "We build apps with \"happiness\" which based on YEOMAN.",
   "main": "app/index.js",
   "dependencies": {
