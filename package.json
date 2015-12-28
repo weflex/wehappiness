@@ -1,0 +1,32 @@
+{
+  "name": "generator-wehappiness",
+  "version": "1.0.0",
+  "description": "We build apps with \"happiness\" which based on YEOMAN.",
+  "main": "app/index.js",
+  "dependencies": {
+    "yeoman-generator": "^0.22.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weflex/wehappiness.git"
+  },
+  "keywords": [
+    "generator-yeoman",
+    "webpack",
+    "build",
+    "tool"
+  ],
+  "author": "Yorkie Liu <yorkiefixer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weflex/wehappiness/issues"
+  },
+  "bin": {
+    "happy": "happy.sh"
+  },
+  "homepage": "https://github.com/weflex/wehappiness#readme"
+}
